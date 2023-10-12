@@ -2,7 +2,7 @@
 - 👀 I’m interested in software dev & web dev
 - 🌱 I’m currently learning various technologies esp web
 - 💞️ I’m looking to collaborate on web game/app
-- 📫 How to reach me: [under construction] msg dropping service URL to be provided recently
+- 📫 How to reach me: [under construction] msg dropping service URL to be provided soon
 
 <!---
 opensource-ting/opensource-ting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
